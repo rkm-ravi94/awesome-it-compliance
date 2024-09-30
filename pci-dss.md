@@ -72,4 +72,5 @@
 ### Sample Templates
 
 -   https://www.pcisecuritystandards.org/document_library
--   https://www.complianceforge.com/pci-dss-documentation
+-   https://complianceforge.com/search.php?search_query=pci
+-   https://listings.pcisecuritystandards.org/documents/PCI-DSS-v3_2_1-ROC-Reporting-Template.pdf
