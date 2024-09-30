@@ -60,7 +60,7 @@
         └── Align data protection strategies with PDPA requirements and future amendments to the act
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Data Protection Policy**
 -   **Consent Management Policy**
@@ -71,7 +71,7 @@
 -   **Third-Party Vendor Policy**
 -   **Privacy Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.pdpc.gov.sg/Help-and-Resources/2020-PDPA-Handbook
 -   https://www.termly.io/resources/templates/pdpa-compliant-privacy-policy/
