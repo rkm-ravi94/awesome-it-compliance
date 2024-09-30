@@ -1,5 +1,6 @@
 ## NYDFS (New York Department of Financial Services Cybersecurity Regulation)
 
+```Tree Structure
 ├ Developer's Point of View (Application Security)
 │   ├ Secure Application Development
 │   │   └── Ensure that applications handling financial or personal data comply with NYDFS cybersecurity requirements
@@ -59,10 +60,9 @@
         ├ Assign leadership to oversee NYDFS cybersecurity compliance and risk management efforts
         ├ Ensure continuous improvement of the cybersecurity program and regular risk assessments
         └── Involve senior management in reviewing cybersecurity reports and incident response strategies
+```
 
-
-
-## Policy Documentation Required
+### Policy Documentation Required
 * Cybersecurity Program Documentation
 * Cybersecurity Policy
 * Incident Response Plan
@@ -74,6 +74,6 @@
 * Penetration Testing and Vulnerability Management Policy
 
 
-## Sample Templates
+### Sample Templates
 * https://advisera.com/27001academy/nydfs-cybersecurity-compliance/
 * https://www.sans.org/security-resources/policies/general/pdf/information-security-policy
