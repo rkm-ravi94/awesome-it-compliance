@@ -1,4 +1,4 @@
-# awesome-compliance
+# awesome-it-compliance
 This repo contains some details about the IT compliances available.
 
 <p>MIT License</p>
