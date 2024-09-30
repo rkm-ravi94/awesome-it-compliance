@@ -60,7 +60,7 @@
         └── Assign leadership to oversee NIST compliance and risk management activities
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Information Security Policy**
 -   **Risk Management Framework (RMF) Documentation**
@@ -74,7 +74,7 @@
 -   **Third-Party Service Provider Policy**
 
 
-## Sample Templates
+### Sample Templates
 
 -   [https://www.nist.gov/cyberframework/framework](https://www.nist.gov/cyberframework/framework)
 -   [https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)
