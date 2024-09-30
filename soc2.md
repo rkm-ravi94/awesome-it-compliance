@@ -62,7 +62,7 @@
         └── Conduct internal and external audits to maintain SOC 2 certification
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Information Security Policy**
 -   **Access Control Policy**
@@ -75,7 +75,7 @@
 -   **Vendor Management Policy**
 -   **Penetration Testing Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.sans.org/security-resources/policies/general/pdf/information-security-policy
 -   https://www.vanta.com/resources/soc-2-compliance-policy-templates
