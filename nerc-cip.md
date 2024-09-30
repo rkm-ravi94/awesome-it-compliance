@@ -84,5 +84,5 @@
 
 ### Sample Templates
 
--   https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx
--   https://complianceforge.com/nerc-cip-compliance/
+-   https://assets.website-files.com/5ffef4c69be53b44bd10b438/6012f587cd82e75440411439_NERC-CIP%20Compliance%20Checklist.pdf
+-   https://www.otorio.com/resources/what-is-nerc-cip/
