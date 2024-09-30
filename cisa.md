@@ -69,8 +69,8 @@
 -   **Log Retention and Monitoring Policy**
 -   **Third-Party Sharing Policy**
 
-### Sample Templates
+### Helpful Links
 
-- https://www.cisa.gov/sites/default/files/2023-03/cisa_cpg_checklist_v1.0.1_final.pdf
+-   https://www.cisa.gov/sites/default/files/2023-03/cisa_cpg_checklist_v1.0.1_final.pdf
 -   https://www.cisa.gov/vulnerability-disclosure-policy-template-0
 -   https://www.sans.org/information-security-policy/
