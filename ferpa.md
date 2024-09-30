@@ -71,7 +71,7 @@
 -   **Third-Party Data Sharing Policy**
 
 
-### Sample Templates
+### Helpful Links
 
 -   https://www.intradyn.com/ferpa-compliance-checklist/
 -   https://studentprivacy.ed.gov/resources/data-security-checklist
