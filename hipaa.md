@@ -85,7 +85,7 @@
 -   **Business Associate Agreements**
 -   **Physical Safeguards Policy**
 
-### Sample Templates
+### Helpful Links
 
--   [https://www.hipaapoliciesandprocedures.com/](https://www.hipaapoliciesandprocedures.com/)
--   https://www.hipaajournal.com/free-hipaa-compliance-checklist-download/
+-   https://www.hipaajournal.com/hipaa-compliance-checklist/
+-   https://www.hipaagps.com/resources/templates/templates-content/
