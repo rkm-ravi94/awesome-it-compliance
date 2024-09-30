@@ -73,5 +73,5 @@
 
 ### Sample Templates
 
--   https://studentprivacy.ed.gov/ferpa-model-notification-rights-under-ferpa-elementary-secondary-schools
--   https://studentprivacy.ed.gov/
+-   https://www.intradyn.com/ferpa-compliance-checklist/
+-   https://studentprivacy.ed.gov/resources/data-security-checklist
