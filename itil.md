@@ -64,7 +64,7 @@
         └── Monitor service performance and align ITIL processes with business objectives
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Service Management Policy**
 -   **Change Management Policy**
@@ -76,7 +76,7 @@
 -   **Backup and Recovery Policy**
 -   **Supplier Management Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://advisera.com/itilacademy/documentation/itil-toolkit/
 -   https://www.itil-docs.com/templates/
