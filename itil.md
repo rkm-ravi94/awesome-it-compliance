@@ -78,5 +78,5 @@
 
 ### Sample Templates
 
--   https://advisera.com/itilacademy/documentation/itil-toolkit/
--   https://www.itil-docs.com/templates/
+-   https://wiki.en.it-processmaps.com/index.php/ITIL-Checklists
+-   https://www.smartsheet.com/content/itil-raci-templates
