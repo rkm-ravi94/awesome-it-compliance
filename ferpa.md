@@ -58,7 +58,7 @@
         └── Align organizational data management policies with FERPA’s privacy and security standards
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Privacy and Security Policy for Student Records**
 -   **Access Control Policy**
@@ -71,7 +71,7 @@
 -   **Third-Party Data Sharing Policy**
 
 
-## Sample Templates
+### Sample Templates
 
 -   https://studentprivacy.ed.gov/ferpa-model-notification-rights-under-ferpa-elementary-secondary-schools
 -   https://studentprivacy.ed.gov/
