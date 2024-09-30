@@ -74,5 +74,6 @@
 
 ### Sample Templates
 
--   https://www.termly.io/resources/templates/pipeda-compliant-privacy-policy/
--   https://www.priv.gc.ca/en/privacy-topics/your-privacy-rights/gd_pipeda_compliance/
+-   https://www.enzuzo.com/blog/pipeda-compliance-requirements
+-   https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/pipeda-compliance-and-training-tools/pipeda_sa_tool_200807/
+-   https://www.hipaajournal.com/pipeda-compliance-checklist/
