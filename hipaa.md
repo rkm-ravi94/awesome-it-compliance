@@ -72,7 +72,7 @@
         └── Regularly review and update HIPAA policies and procedures
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Privacy and Security Policies**
 -   **Access Control and Identity Management Policy**
@@ -85,7 +85,7 @@
 -   **Business Associate Agreements**
 -   **Physical Safeguards Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   [https://www.hipaapoliciesandprocedures.com/](https://www.hipaapoliciesandprocedures.com/)
 -   https://www.hipaajournal.com/free-hipaa-compliance-checklist-download/
