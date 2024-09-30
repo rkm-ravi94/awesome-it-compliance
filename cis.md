@@ -67,7 +67,7 @@
         └── Promote a culture of cybersecurity awareness and proactive threat management
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Information Security Policy**
 -   **Vulnerability Management Policy**
@@ -80,7 +80,7 @@
 -   **Penetration Testing Policy**
 -   **Third-Party Risk Management Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.cisecurity.org/controls/
 -   https://www.sans.org/security-resources/policies/general/pdf/security-policy
