@@ -71,7 +71,7 @@
 -   **Penetration Testing Policy**
 -   **Personnel Security Policy**
 
-### Sample Templates
+### Helpful Links
 
 -   https://www.fedramp.gov/templates/
 -   https://www.fedramp.gov/documents/
