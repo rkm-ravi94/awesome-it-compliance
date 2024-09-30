@@ -75,7 +75,8 @@
 -   **Vendor Management Policy**
 -   **Penetration Testing Policy**
 
-### Sample Templates
+### Helpful Links
 
--   https://www.sans.org/security-resources/policies/general/pdf/information-security-policy
--   https://www.vanta.com/resources/soc-2-compliance-policy-templates
+-   https://sprinto.com/blog/soc-2-compliance-checklist/
+-   https://www.auditboard.com/blog/soc-2-compliance-checklist/
+-   https://www.hipaajournal.com/soc-2-compliance-checklist/
