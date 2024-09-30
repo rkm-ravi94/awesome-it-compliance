@@ -59,7 +59,7 @@
         └── Ensure that third-party vendors handling financial data comply with GLBA’s requirements
 ```
 
-## Policy Documentations Required
+### Policy Documentations Required
 
 -   **Information Security Policy**
 -   **Customer Data Protection Policy**
@@ -71,7 +71,7 @@
 -   **Employee Training Policy**
 -   **Business Continuity and Recovery Plan**
 
-## Sample Templates
+### Sample Templates
 
 -   https://advisera.com/27001academy/documentation-toolkit-for-banks/
 -   https://www.exigobusiness.com/glba-compliance-checklist/
