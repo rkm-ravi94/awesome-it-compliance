@@ -63,7 +63,7 @@
         └── Implement governance to ensure transparency and accuracy in financial reporting
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Internal Controls Over Financial Reporting (ICFR)**
 -   **Access Control Policy**
@@ -75,7 +75,7 @@
 -   **Third-Party Vendor Management Policy**
 -   **IT General Controls (ITGCs)**
 
-## Sample Templates
+### Sample Templates
 
 -   https://templates.digitorysolutions.com/sox-policies-procedures-sample/
 -   [https://www.soxtemplates.com/](https://www.soxtemplates.com/)
