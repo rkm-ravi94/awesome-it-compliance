@@ -60,7 +60,7 @@
         └── Conduct regular assessments of privacy practices to ensure ongoing compliance
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Privacy Policy**
 -   **Data Subject Rights Policy (Access, Deletion, Opt-Out)**
@@ -73,7 +73,7 @@
 -   **User Consent Withdrawal Policy**
 
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.cookielaw.org/resources/ccpa-policy-template/
 -   https://www.termly.io/resources/templates/ccpa-privacy-policy-template/
