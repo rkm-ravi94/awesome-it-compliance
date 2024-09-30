@@ -73,5 +73,5 @@
 
 ### Sample Templates
 
--   https://www.pdpc.gov.sg/Help-and-Resources/2020-PDPA-Handbook
--   https://www.termly.io/resources/templates/pdpa-compliant-privacy-policy/
+-   https://pdpa.guide/pdpa-guide
+-   https://complypdpa.com/pdpa-singapore-checklist-essential-pdpa-compliance-guide-for-singapore-businesses-importance-of-pdpa-compliance-for-companies/
