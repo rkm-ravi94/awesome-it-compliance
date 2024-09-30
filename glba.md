@@ -71,7 +71,7 @@
 -   **Employee Training Policy**
 -   **Business Continuity and Recovery Plan**
 
-### Sample Templates
+### Helpful Links
 
--   https://advisera.com/27001academy/documentation-toolkit-for-banks/
--   https://www.exigobusiness.com/glba-compliance-checklist/
+-   https://www.apptega.com/guide/glba-compliance
+-   https://www.intradyn.com/glba-compliance/
