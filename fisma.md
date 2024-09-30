@@ -76,5 +76,5 @@
 
 ## Sample Templates
 
--   https://www.sans.org/security-resources/policies/general/pdf/information-security-policy
--   https://www.vanta.com/resources/soc-2-compliance-policy-templates
+-   https://www.complianceforge.com/fisma-nist-800-53-compliance/
+-   https://fedramp.org/documents/
