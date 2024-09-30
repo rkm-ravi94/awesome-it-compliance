@@ -70,7 +70,7 @@
         └── Regularly audit and assess the organization’s compliance with NERC CIP standards
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Cyber Security Policy**
 -   **Incident Response Plan**
@@ -82,7 +82,7 @@
 -   **Training and Awareness Policy**
 -   **Recovery Plan for Critical Infrastructure**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx
 -   https://complianceforge.com/nerc-cip-compliance/
