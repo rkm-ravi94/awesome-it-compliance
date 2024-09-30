@@ -62,7 +62,7 @@
         └── Regularly review and audit organizational practices for LGPD compliance
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Data Protection Policy**
 -   **Consent Management Policy**
@@ -74,7 +74,7 @@
 -   **Third-Party Service Provider Agreements**
 -   **Risk Management Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.termly.io/resources/templates/lgpd-privacy-policy-template/
 -   https://www.trustarc.com/templates/lgpd-templates/
