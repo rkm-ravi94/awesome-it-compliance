@@ -60,7 +60,7 @@
         └── Ensure COBIT principles are integrated into enterprise IT governance and management processes
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **IT Governance Framework**
 -   **Risk Management Policy**
@@ -72,7 +72,7 @@
 -   **Audit and Monitoring Policy**
 -   **Service Continuity and Recovery Plan**
 
-## Sample Templates 
+### Sample Templates 
 
 -   https://www.isaca.org/resources/cobit
 -   https://advisera.com/27001academy/knowledgebase/cobit-guide/
