@@ -75,5 +75,5 @@
 
 ### Sample Templates
 
--   https://www.cookielaw.org/resources/ccpa-policy-template/
--   https://www.termly.io/resources/templates/ccpa-privacy-policy-template/
+-   https://www.termsfeed.com/public/uploads/2021/12/sample-ccpa-privacy-policy-template.pdf
+-   https://www.iubenda.com/en/help/26696-ccpa-privacy-policy-template
