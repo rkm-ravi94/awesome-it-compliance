@@ -74,6 +74,6 @@
 * Penetration Testing and Vulnerability Management Policy
 
 
-### Sample Templates
-* https://advisera.com/27001academy/nydfs-cybersecurity-compliance/
-* https://www.sans.org/security-resources/policies/general/pdf/information-security-policy
+### Helpful Links
+- https://blog.rsisecurity.com/nydfs-cybersecurity-checklist/
+- https://www.dfs.ny.gov/system/files/documents/2024/05/Cybersecurity-Program-Template_05.2024.pdf
