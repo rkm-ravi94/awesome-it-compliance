@@ -1,0 +1,82 @@
+## ISO 27701 (Privacy Information Management System)
+
+```Tree Structure
+├── Developer's Point of View (Application Security)
+│   ├── Privacy by Design
+│   │   └── Ensure that privacy principles are embedded into the development process from the outset
+│   ├── Data Minimization
+│   │   └── Limit the collection and processing of personal data to what is necessary for specific purposes
+│   ├── Consent Management
+│   │   └── Implement consent management features in applications, following the ISO 27701 guidelines
+│   ├── Data Access and Correction
+│   │   └── Provide mechanisms for individuals to access, correct, or delete their personal data
+│   └── Encryption and Data Security
+│       └── Implement encryption mechanisms to protect personal data both in transit and at rest
+│
+├── IT Point of View (Operations and IT Management)
+│   ├── Access Control and Identity Management
+│   │   └── Implement access controls to restrict who can access personal data, ensuring compliance with ISO 27701
+│   ├── Data Retention and Disposal
+│   │   └── Establish and enforce policies for securely retaining and deleting personal data when no longer needed
+│   ├── Data Breach Management
+│   │   └── Implement a breach notification process to inform stakeholders in case of data breaches
+│   ├── Continuous Monitoring
+│   │   └── Regularly monitor systems that process personal data to ensure compliance and identify vulnerabilities
+│   └── Consent and Data Subject Requests
+│       └── Ensure IT systems are capable of handling data subject requests (access, correction, deletion)
+│
+├── Infrastructure Point of View (Network and System Security)
+│   ├── Data Encryption
+│   │   └── Encrypt personal data at rest and during transmission to ensure confidentiality
+│   ├── Logging and Monitoring
+│   │   └── Implement logging and monitoring to track access to personal data and ensure accountability
+│   ├── Network Security
+│   │   └── Use secure network architectures, including firewalls and segmentation, to protect personal data
+│   ├── Access Controls
+│   │   └── Enforce strict access control policies to limit who can access personal data based on roles
+│   └── Vulnerability and Patch Management
+│       └── Regularly scan for vulnerabilities and apply patches to systems that handle personal data
+│
+├── Data Privacy Controls (ISO 27701)
+│   ├── Privacy Risk Assessments
+│   │   └── Conduct regular risk assessments to identify and mitigate privacy risks in data processing
+│   ├── Data Subject Rights Management
+│   │   ├── Right to Access
+│   │   ├── Right to Correction
+│   │   └── Right to Deletion (or Data Erasure)
+│   ├── Consent Management
+│   │   └── Ensure that mechanisms for obtaining and managing consent are in place
+│   ├── Data Protection by Design and Default
+│   │   └── Ensure that systems and processes incorporate privacy protection from the start
+│   └── Information Security Management
+│       └── Ensure alignment between ISO 27001 (information security) and ISO 27701 (privacy) controls
+│
+└── Other Perspectives
+    ├── Legal and Compliance
+    │   ├── Ensure compliance with applicable privacy regulations through ISO 27701’s guidelines
+    │   └── Maintain documentation for audits and provide evidence of compliance with privacy standards
+    ├── HR and Employee Training
+    │   ├── Train staff on data privacy responsibilities and the requirements of ISO 27701
+    │   └── Ensure employees are aware of how to handle personal data and respond to data subject requests
+    └── Management and Leadership
+        ├── Assign leadership to oversee ISO 27701 compliance and privacy risk management
+        ├── Appoint a Data Protection Officer (DPO) or privacy lead to manage privacy initiatives
+        └── Regularly review and update privacy policies and procedures to maintain ISO 27701 compliance
+```
+
+## Policy Documentation Required
+
+-   **Privacy Information Management System (PIMS) Documentation**
+-   **Data Protection and Privacy Policy**
+-   **Data Subject Rights Policy**
+-   **Consent Management Policy**
+-   **Data Retention and Disposal Policy**
+-   **Access Control Policy**
+-   **Incident Response and Data Breach Notification Policy**
+-   **Third-Party Vendor Management Policy**
+-   **Audit Logging and Monitoring Policy**
+
+## Sample Templates
+
+-   https://advisera.com/27001academy/iso-27701-documentation-toolkit/
+-   https://www.iso.org/iso-27701-privacy-information-management.html
