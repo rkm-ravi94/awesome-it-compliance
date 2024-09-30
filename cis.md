@@ -80,7 +80,7 @@
 -   **Penetration Testing Policy**
 -   **Third-Party Risk Management Policy**
 
-### Sample Templates
+### Helpful Links
 
 -   https://www.cisecurity.org/controls/
 -   https://www.cisecurity.org/cis-benchmarks/
