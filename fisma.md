@@ -74,7 +74,7 @@
 -   **Audit Control Policy**
 -   **Physical Security Policy**
 
-### Sample Templates
+### Helpful Links
 
--   https://www.complianceforge.com/fisma-nist-800-53-compliance/
--   https://fedramp.org/documents/
+-   https://www.isaca.org/resources/isaca-journal/issues/2015/volume-4/fisma-compliance-handbook
+-   https://bigid.com/blog/fisma-compliance/
