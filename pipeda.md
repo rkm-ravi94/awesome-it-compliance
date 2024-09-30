@@ -60,7 +60,7 @@
         └── Regularly review and audit privacy practices to ensure alignment with PIPEDA requirements
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Privacy Policy**
 -   **Data Subject Rights Policy (Access, Correction)**
@@ -72,7 +72,7 @@
 -   **Incident Response Plan**
 -   **Data Protection and Encryption Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.termly.io/resources/templates/pipeda-compliant-privacy-policy/
 -   https://www.priv.gc.ca/en/privacy-topics/your-privacy-rights/gd_pipeda_compliance/
