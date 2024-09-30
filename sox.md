@@ -75,7 +75,6 @@
 -   **Third-Party Vendor Management Policy**
 -   **IT General Controls (ITGCs)**
 
-### Sample Templates
-
--   https://templates.digitorysolutions.com/sox-policies-procedures-sample/
--   [https://www.soxtemplates.com/](https://www.soxtemplates.com/)
+### Helpful Links
+-   https://www.exabeam.com/explainers/sox-compliance/sox-compliance-requirements-and-checklist/
+-   https://www.varonis.com/blog/sox-compliance
