@@ -76,5 +76,5 @@
 
 ### Sample Templates
 
--   https://www.termly.io/resources/templates/lgpd-privacy-policy-template/
--   https://www.trustarc.com/templates/lgpd-templates/
+-   https://usercentrics.com/resources/lgpd-checklist/
+-   https://iapp.org/resources/article/brazilian-data-protection-law-lgpd-english-translation/
