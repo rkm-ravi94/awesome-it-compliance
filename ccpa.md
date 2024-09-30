@@ -73,7 +73,7 @@
 -   **User Consent Withdrawal Policy**
 
 
-### Sample Templates
+### Helpful Links
 
 -   https://www.termsfeed.com/public/uploads/2021/12/sample-ccpa-privacy-policy-template.pdf
 -   https://www.iubenda.com/en/help/26696-ccpa-privacy-policy-template
