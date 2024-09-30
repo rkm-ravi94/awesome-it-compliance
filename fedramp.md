@@ -58,7 +58,7 @@
         └── Conduct regular reviews of security practices to maintain FedRAMP authorization
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
  -   **System Security Plan (SSP)**
 -   **Access Control Policy**
@@ -71,7 +71,7 @@
 -   **Penetration Testing Policy**
 -   **Personnel Security Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.fedramp.gov/templates/
 -   https://www.fedramp.gov/documents/
