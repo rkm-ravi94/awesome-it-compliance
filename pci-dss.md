@@ -53,7 +53,7 @@
 	        └── Promote a culture of cybersecurity awareness and proactive threat management
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Information Security Policy**
 -   **Access Control Policy**
@@ -69,7 +69,7 @@
 -   **Backup and Recovery Policy**
 -   **Penetration Testing Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.pcisecuritystandards.org/document_library
 -   https://www.complianceforge.com/pci-dss-documentation
