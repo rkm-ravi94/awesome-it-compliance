@@ -75,4 +75,5 @@
 ### Sample Templates 
 
 -   https://www.isaca.org/resources/cobit
--   https://advisera.com/27001academy/knowledgebase/cobit-guide/
+-   https://www.isaca.org/resources/it-audit
+-   https://info.advisera.com/27001academy/free-download/how-to-integrate-iso-27001-cobit-and-nist
