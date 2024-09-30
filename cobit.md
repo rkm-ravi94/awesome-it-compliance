@@ -72,7 +72,7 @@
 -   **Audit and Monitoring Policy**
 -   **Service Continuity and Recovery Plan**
 
-### Sample Templates 
+### Helpful Links
 
 -   https://www.isaca.org/resources/cobit
 -   https://www.isaca.org/resources/it-audit
