@@ -61,7 +61,7 @@
         └── Ensure that continuous improvement of security practices is a priority for the organization
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **System Security Plan (SSP)**
 -   **Risk Management Plan**
@@ -74,7 +74,7 @@
 -   **Audit Control Policy**
 -   **Physical Security Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.complianceforge.com/fisma-nist-800-53-compliance/
 -   https://fedramp.org/documents/
