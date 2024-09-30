@@ -83,4 +83,4 @@
 ### Sample Templates
 
 -   https://www.cisecurity.org/controls/
--   https://www.sans.org/security-resources/policies/general/pdf/security-policy
+-   https://www.cisecurity.org/cis-benchmarks/
