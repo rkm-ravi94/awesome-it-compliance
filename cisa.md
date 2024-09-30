@@ -58,7 +58,7 @@
         └── Encourage collaboration between public and private sectors for threat intelligence sharing
 ```
 
-## Policy Documentation Required
+### Policy Documentation Required
 
 -   **Information Sharing Policy**
 -   **Incident Reporting Policy**
@@ -69,7 +69,7 @@
 -   **Log Retention and Monitoring Policy**
 -   **Third-Party Sharing Policy**
 
-## Sample Templates
+### Sample Templates
 
 -   https://www.cisa.gov/publication/cybersecurity-best-practices-policies-and-procedures
 -   https://www.sans.org/security-resources/policies/general/pdf/incident-response-policy
