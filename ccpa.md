@@ -165,6 +165,6 @@ upon request
 
 ### Helpful Links
 
-https://oag.ca.gov/privacy/ccpa
-https://www.delphix.com/glossary/what-is-ccpa-compliance
-https://www.onetrust.com/blog/ultimate-guide-to-ccpa-compliance/
+* https://oag.ca.gov/privacy/ccpa
+* https://www.delphix.com/glossary/what-is-ccpa-compliance
+* https://www.onetrust.com/blog/ultimate-guide-to-ccpa-compliance/
